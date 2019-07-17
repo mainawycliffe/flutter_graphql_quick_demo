@@ -6,6 +6,6 @@ Run this example:
 2. Run `flutter pub get` to install pub dependancies
 3. and then run `flutter run`
 
-> **NB:** Make sure your emulator is running and recognized by flutter. You can check that by running `flutter docker`, then check for the `connected device` section at the bottom.
+   > **NB:** Make sure your emulator is running and recognized by flutter. You can check that by running `flutter docker`, then check for the `connected device` section at the bottom.
 
 For more information, check the offical repo [here](https://github.com/zino-app/graphql-flutter).
